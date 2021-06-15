@@ -9,7 +9,7 @@
     "react-scripts": "^3.4.0",
     "react-sound": "^0.8.0"
   },
-  "homepage": "https://clement-escolano.github.io/blindtest-spotify",
+  "homepage": "https://florian6973.github.io/blindtest-spotify",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
